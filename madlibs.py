@@ -27,6 +27,6 @@ print(f"\nWith a {adj2} sword in hand and a {animal} by their side, they venture
 
 print(f"\nFinally, after a {number}-day journey, they reached the sorcerer’s {darkplace}. The air was thick with {adj5} magic, and shadows danced on the walls.")
 
-print(f"\nWith a mighty {verb}, {name} faced the sorcerer. A battle of {element} and spells erupted, shaking the ground. But in the end, our hero emerged victorious, holding the {obj} once more.")
+print(f"\nWith a mighty {verb}, {name} faced the sorcerer. A battle of {element} and spells erupted, shaking the ground. But in the end, our warrior emerged victorious, holding the {obj} once more.")
 
 print(f"\nThe kingdom of {kingdom} was saved, and the people cheered, forever grateful for the courage of {name}!")
