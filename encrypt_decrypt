@@ -1,0 +1,10 @@
+import random
+import string
+
+ch= " " + string.punctuation + string.digits + string.ascii_letters
+ch=list(ch)
+
+lst=random.shuffle(ch)
+
+print(ch)
+print(lst)
