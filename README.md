@@ -1,6 +1,6 @@
 Welcome to my **Python Mini-Projects** repository! 🎯  
 
-This repository contains a collection of small yet useful Python projects that help improve problem-solving, logical thinking, and coding skills.
+This repository contains a collection of small yet useful Python projects that helped improve my problem-solving, logical thinking, and coding skills.
 
 ---
 
